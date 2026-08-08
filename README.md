@@ -3,7 +3,8 @@ Schedules and scores for men's NCAA games today.
 
 
 
-#Configuration
+
+CONFIGURATION
 
           - type: custom-api
             title: NCAA Men's Basketball
